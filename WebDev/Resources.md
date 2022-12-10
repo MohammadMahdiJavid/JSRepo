@@ -1,0 +1,15 @@
+# Web Dev Resources
+
+1. []()
+2. [spbooks/phpmysql7](https://github.com/spbooks/phpmysql7)
+3. [Server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+4. [GitHut](https://madnight.github.io/githut/#/pull_requests/2022/3)
+5. [StackOverFlow survey 2021](https://insights.stackoverflow.com/survey/2021#most-popular-technologies-language)
+6. [Spider Monkey](https://spidermonkey.dev/)
+7. [rhino](https://github.com/mozilla/rhino)
+8. [ECMA](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+9. [The WebSocket API (WebSockets)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+10. [Node.js Documentation](https://nodejs.org/api/)
+11. [Electron](https://www.electronjs.org/)
+12. [Deno](https://deno.land/)
+13. [NVM](https://github.com/nvm-sh/nvm)
