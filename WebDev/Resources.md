@@ -1,6 +1,6 @@
 # Web Dev Resources
 
-1. []()
+1. [Node.js](https://nodejs.org/)
 2. [spbooks/phpmysql7](https://github.com/spbooks/phpmysql7)
 3. [Server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 4. [GitHut](https://madnight.github.io/githut/#/pull_requests/2022/3)
@@ -13,3 +13,4 @@
 11. [Electron](https://www.electronjs.org/)
 12. [Deno](https://deno.land/)
 13. [NVM](https://github.com/nvm-sh/nvm)
+14. [GC](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management#:~:text=Some%20high%2Dlevel%20languages%2C%20such,longer%20needed%20and%20reclaim%20it.)

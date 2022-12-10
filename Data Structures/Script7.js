@@ -1,0 +1,28 @@
+let anObject = { left: 1, right: 2 };
+
+console.log(anObject.left);
+// → 1
+
+delete anObject.left;
+
+console.log(anObject.left);
+// → undefined
+
+console.log("left" in anObject);
+// → false
+
+console.log("right" in anObject);
+// → true
+
+console.log(anObject.hasOwnProperty("left"));
+// → false
+
+console.log(anObject.hasOwnProperty("right"));
+// → true
+
+console.log(Object.keys(anObject));
+// → ["right"]
+
+delete anObject;
+console.log(anObject);
+console.log(anObject.left);
