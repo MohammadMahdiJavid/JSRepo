@@ -75,6 +75,19 @@ npm update
 
 npm i express
 
+installing node monitor
+npm i -g nodemon
+
+nodemon index.js
+
+environment variable for Port --> process object (Global)
+
+npm i joi
+
+npm list -g --depth=0
+
+npm view joi version
+npm view --help
 
 
 */
