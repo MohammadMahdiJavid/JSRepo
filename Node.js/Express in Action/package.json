@@ -1,0 +1,15 @@
+{
+  "name": "express-in-action",
+  "version": "1.0.0",
+  "description": "1. [Express](https://expressjs.com/)\r 2. [Express examples](https://github.com/expressjs/express/tree/master/examples)\r 3. [NPM Registry](https://www.npmjs.com/)\r 4. [finding high quality node packages](https://substack.net/finding_modules)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moongose": "^1.0.0"
+  }
+}
