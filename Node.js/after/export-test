@@ -1,0 +1,13 @@
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#objects_and_properties
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+// https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export#examples
+// https://javascript.plainenglish.io/can-javascript-object-keys-have-spaces-ed389758e5c3
+
+let x = 2;
+let y = 3;
+
+const obj = {
+    "test this": "this value",
+};
+
+export { test, x as y, obj as default };
